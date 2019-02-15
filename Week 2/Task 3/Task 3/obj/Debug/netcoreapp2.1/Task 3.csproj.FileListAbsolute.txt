@@ -1,0 +1,11 @@
+C:\Users\sanzh\Desktop\pp\c#\PP2\Week 2\Task 3\Task 3\bin\Debug\netcoreapp2.1\Task 3.deps.json
+C:\Users\sanzh\Desktop\pp\c#\PP2\Week 2\Task 3\Task 3\bin\Debug\netcoreapp2.1\Task 3.runtimeconfig.json
+C:\Users\sanzh\Desktop\pp\c#\PP2\Week 2\Task 3\Task 3\bin\Debug\netcoreapp2.1\Task 3.runtimeconfig.dev.json
+C:\Users\sanzh\Desktop\pp\c#\PP2\Week 2\Task 3\Task 3\bin\Debug\netcoreapp2.1\Task 3.dll
+C:\Users\sanzh\Desktop\pp\c#\PP2\Week 2\Task 3\Task 3\bin\Debug\netcoreapp2.1\Task 3.pdb
+C:\Users\sanzh\Desktop\pp\c#\PP2\Week 2\Task 3\Task 3\obj\Debug\netcoreapp2.1\Task 3.csprojAssemblyReference.cache
+C:\Users\sanzh\Desktop\pp\c#\PP2\Week 2\Task 3\Task 3\obj\Debug\netcoreapp2.1\Task 3.csproj.CoreCompileInputs.cache
+C:\Users\sanzh\Desktop\pp\c#\PP2\Week 2\Task 3\Task 3\obj\Debug\netcoreapp2.1\Task 3.AssemblyInfoInputs.cache
+C:\Users\sanzh\Desktop\pp\c#\PP2\Week 2\Task 3\Task 3\obj\Debug\netcoreapp2.1\Task 3.AssemblyInfo.cs
+C:\Users\sanzh\Desktop\pp\c#\PP2\Week 2\Task 3\Task 3\obj\Debug\netcoreapp2.1\Task 3.dll
+C:\Users\sanzh\Desktop\pp\c#\PP2\Week 2\Task 3\Task 3\obj\Debug\netcoreapp2.1\Task 3.pdb
