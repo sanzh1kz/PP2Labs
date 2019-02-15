@@ -7,12 +7,12 @@ namespace Part_1
     {
         static void Main(string[] args)
         {
-            Explorer FileManager = new Explorer();
+            Explorer FileManager = new Explorer();                        //создал новый FileManager
             FileManager.Start(@"C:\Users\sanzh\Desktop");                 //передаем путь в метод старт
         }
     }
 
-    class Explorer
+    class Explorer                                                        //создал новый класс
     {
         public int cursor;
         public int size;
