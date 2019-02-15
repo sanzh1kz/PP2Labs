@@ -20,7 +20,7 @@ namespace Task_1
 
             for (int i = 0; i < arr.Length; i++)
             {
-                if (isPrime(arr[i]) == 1) // передал числа в метод
+                if (IsPrime(arr[i]) == 1) // передал числа в метод
                 {
                     Prime.Add(arr[i]); // если с метода вернется 1, то записываем число в лист
                 }
@@ -37,7 +37,7 @@ namespace Task_1
 
         }
 
-        public static int isPrime(int a)
+        public static int IsPrime(int a)
         {
             for (int i = 2; i <= a; i++)
             {
